@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Joyce Marie Antolin, an enthusiastic Information Technology student.
+
+Welcome to my Github profile!
 
 <!--
 **joyceantolin/joyceantolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
